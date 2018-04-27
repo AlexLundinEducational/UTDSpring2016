@@ -1,0 +1,48 @@
+Homework #5.a
+1.) The indirection operator allows a programmer to change the value inside a address, this is known as working with a dereferenced pointer.
+2.)	*iptr to cout displays the value inside x which is 7, iptr to cout displays the memory address of x.
+3.) manipulate data stored in a variable without directly acessing it.
+4.) 	---incrementation and decrementation of a pointer variable ++, --
+	---integer addition and subtraction from a pointer +, - , += , -=
+	subtraction of one pointer from another to get the distance between two.
+5.) adding 4 to ptr will move the address ptr points too, in turn this could change the value that ptr point to depending on what is stored in the new location.
+6.) the code displays the value of the 3rd entry in the numbers array, which is 8.
+7.) to allocate enough memory for a data type with a pointer declaration.
+8.) allocation error, code won't run
+9.) let allocated memory go so other parts of the program can access it.
+10.) 	---when the pointer was passed into the function as a argument -- not locally defined.
+	---when the pointer is dynamically allocated.
+11.)	---pointer to constant -- address can be changed, value stored cannot be changed.
+	---constant pointer    -- address cannot be changed, value stored can be changed.
+12.)	---code cannot chnage the value that the pointer points to.
+	---safe way to pass values into functions since the contents can't be altered.
+13.) address
+14.) &
+15.) Pointer
+16.) * (indirection)
+17.) Pointers
+18.) initializing
+19.) new
+20.) an error
+21.) null
+22.) delete
+23.) new
+29.) constant int *ptr;
+30.) int * constant ptr;
+31.) T
+32.) F
+33.) T
+34.) F
+35.) F
+36.) T
+37.) F
+38.) T
+39.) T
+40.) T
+41.) F
+42.) T
+43.) T
+44.) T
+45.) F
+46.) T
+47.) F
